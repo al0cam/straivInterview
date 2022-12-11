@@ -1,0 +1,30 @@
+<Collection version="2.0" id="74j5hc4je3b9">
+    <Name>A Funfair in Bangkok</Name>
+    
+    <HotelReservations>
+      <HotelReservation ResStatus="Reserved" RoomNumberLockedIndicator="false" CreateDateTime="2021-05-23T11:17:30.670" CreatorID="CPDE2ORDER" LastModifyDateTime="2021-05-23T11:17:30.670" LastModifierID="CPDE2ORDER"/>
+    </HotelReservations>
+
+    <RatePlans>
+      <RatePlan RatePlanCode="AAA" PriceViewableInd="true">
+          <RatePlanDescription>
+              <Text>AAA Discount Rate</Text>
+          </RatePlanDescription>
+          <RatePlanInclusions TaxInclusive="false"/>
+          <MealsIncluded MealPlanIndicator="true"/>
+      </RatePlan>
+    </RatePlans>
+
+
+    <Services>
+      <Service>LateCheckOut</Service>
+      <Service>Spa Access</Service>
+      <Service>Minibar</Service>
+      <Service>TourismCard</Service>
+    </Services>
+
+    <HotelReservationIDs>
+      <HotelReservationID ResID_Type="16" ResID_Value="1085" ResID_Source="HMS" ResID_SourceContext="PMSAccount"/>
+      <HotelReservationID ResID_Type="10" ResID_Value="53501327-1" ResID_Source="HMS" ResID_SourceContext="PMS" ForGuest="true"/>
+    </HotelReservationIDs>
+  </Collection>
